@@ -17,7 +17,7 @@ O widget possui os seguintes recursos:
 
 ## Screenshot
 
-<img title="Conky-desktop-theme" src="Antares/Antares.png">
+<img title="Conky-desktop-theme" src="Antares/AntaresMOD.png">
 
 ## Diretivas
 
