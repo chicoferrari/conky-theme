@@ -35,14 +35,18 @@ $ sudo pacman -S jq curl
 Clonando o presente diretório
 ```
 $ cd /tmp
-$ git clone ..
+$ git clone https://github.com/chicoferrari/conky-theme.git
+```
+Fornecendo permissão de execução aos scripts
+```
+$ chmod +x conky-theme/Antares/scripts/*
 ```
 Movendo os arquivos para os respectivos diretórios
 ```
 $ mkdir ~/.conky
-$ mv -r CONKY-THEME/* ~/.conky/.
+$ mv -r conky-theme/* ~/.conky/.
 ```
-Configurando a cidade cujo clima será monitorado
+Configurando a cidade a qual queira receber as informações sobre o clima
 ```
 $ ~/.conky/Antares/scripts/city_name.sh "nome da cidade" "código do país"
 
