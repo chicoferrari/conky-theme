@@ -44,7 +44,7 @@ $ chmod +x conky-theme/Antares/scripts/*
 Movendo os arquivos para os respectivos diretórios
 ```
 $ mkdir ~/.conky
-$ mv -r conky-theme/* ~/.conky/.
+$ mv conky-theme/* ~/.conky/.
 ```
 Configurando a cidade a qual queira receber as informações sobre o clima
 ```
@@ -56,7 +56,7 @@ $ ~/.conky/Antares/scripts/city_name.sh "São Paulo" "BR"
 ```
 Configurando a aplicação para iniciar automaticamente
 ```
-$ ~/.conky/set_start_conky.sh
+$ ~/.conky/Antares/scripts/set_start_conky.sh
 $ cp ~/.conky/start_conky.sh.desktop ~/.config/autostart/.
 ```
 ---
