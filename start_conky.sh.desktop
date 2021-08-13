@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Exec=/home/rafael/.conky/start_conky.sh
+Exec=/home/rafael/.conky/Antares/scripts/start_conky.sh
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true

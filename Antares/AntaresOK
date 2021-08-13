@@ -1,5 +1,5 @@
 conky.config = {
--- By Khiky_Merveilles
+-- By Khiky_Merveilles and modifield by SouthernTucan
 	background = true,
 	use_xft = true,
 	font = 'Metropolis Medium:size=9',

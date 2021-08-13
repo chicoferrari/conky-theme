@@ -59,4 +59,10 @@ Configurando a aplicação para iniciar automaticamente
 $ ~/.conky/Antares/scripts/set_start_conky.sh
 $ cp ~/.conky/start_conky.sh.desktop ~/.config/autostart/.
 ```
+Caso necessário, reinicie o sistema
+```
+$ reboot
+```
+
+
 ---
