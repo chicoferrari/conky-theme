@@ -54,9 +54,15 @@ Exemplo:
 
 $ ~/.conky/Antares/scripts/city_name.sh "São Paulo" "BR"
 ```
+Iniciando a aplicação
+```
+$ ~/.conky/Antares/scripts/start_conky.sh
+```
 Configurando a aplicação para iniciar automaticamente
 ```
 $ ~/.conky/Antares/scripts/set_start_conky.sh
 $ cp ~/.conky/start_conky.sh.desktop ~/.config/autostart/.
 ```
+<b>Obs:</b> Em alguns casos é necessário fazer logoff/login para a aplicação aparecer no Desktop.
+
 ---
